@@ -4,7 +4,7 @@ This project is a Blockchain-based Anti-counterfeit System designed to enhance s
 
 SETUP PROCESS:-
 1. Clone the project
-2. Extract the `src.zip` and verify that all the files are in the src folder only and not in src/src.
+2. Extract the zip file
 
 3. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
